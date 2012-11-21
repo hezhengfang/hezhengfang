@@ -1,3 +1,5 @@
+/*this is my first program */
+
 #import <Foundation/Foundation.h>
 @interface Car:NSObject
 {
@@ -10,4 +12,6 @@
 andYear : (int)  ayear;
 - (void) printCarInfo;
 - (int) year;
+
+
 @end
